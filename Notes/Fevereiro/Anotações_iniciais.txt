@@ -1,0 +1,27 @@
+SAUDE:
+Sistema de saúde pública com a finalidade de trazer mais conforto econômico para o órgão governamental de Praia Grande, trazendo mais investimentos para a saúde pública.
+
+Objetivo: Criação de um site/sistema, capaz de facilitar o andamento de resultados, pedidos e requerimentos de exames e documentações, com a finalidade de diminuir o custo do município em relação aos órgãos particulares, porém, investindo nas mesmas para a execução dos exames e consultas.
+* Trabalha com o contexto social.
+* ALGO COM IA
+
+
+- Visitar USAFAS;
+- Formulário do google;
+- Conversar com os cidadãos
+
+Pesquisa de campo
+
+ODS:
+17 - Parcerias em prol das metas
+3 - Saúde e bem-estar
+10 - Redução de desigualdades
+9 - Inovação e Indústria
+
+acessibilidade:
+- Surdos / Mudo
+- Daltônicos
+- Idoso
+- Infantil
+- Cego
+- Pobre
